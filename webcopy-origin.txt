@@ -1,0 +1,2556 @@
+Uri: https://106.sb.mywebsite-editor.com/app/logstate-js.php?site=681917280&t=1790186411
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\logstate-js.php
+Content Type: application/javascript
+
+Uri: https://106.sb.mywebsite-editor.com/app/logstate-js.php?site=681917280&t=1790186414
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\logstate-js-1.php
+Content Type: application/javascript
+
+Uri: https://106.sb.mywebsite-editor.com/app/logstate-js.php?site=681917280&t=1790186415
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\logstate-js-2.php
+Content Type: application/javascript
+
+Uri: https://106.sb.mywebsite-editor.com/app/logstate-js.php?site=681917280&t=1790186416
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\logstate-js-3.php
+Content Type: application/javascript
+
+Uri: https://106.sb.mywebsite-editor.com/app/logstate-js.php?site=681917280&t=1790186417
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\logstate-js-4.php
+Content Type: application/javascript
+
+Uri: https://106.sb.mywebsite-editor.com/app/logstate-js.php?site=681917280&t=1790186418
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\logstate-js-5.php
+Content Type: application/javascript
+
+Uri: https://106.sb.mywebsite-editor.com/app/logstate-js.php?site=681917280&t=1790186419
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\logstate-js-6.php
+Content Type: application/javascript
+
+Uri: https://106.sb.mywebsite-editor.com/app/logstate-js.php?site=681917280&t=1790186420
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\logstate-js-7.php
+Content Type: application/javascript
+
+Uri: https://106.sb.mywebsite-editor.com/app/logstate-js.php?site=681917280&t=1790186421
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\logstate-js-8.php
+Content Type: application/javascript
+
+Uri: https://106.sb.mywebsite-editor.com/app/logstate-js.php?site=681917280&t=1790186422
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\logstate-js-9.php
+Content Type: application/javascript
+
+Uri: https://106.sb.mywebsite-editor.com/app/logstate-js.php?site=681917280&t=1790186423
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\logstate-js-10.php
+Content Type: application/javascript
+
+Uri: https://106.sb.mywebsite-editor.com/app/logstate-js.php?site=681917280&t=1790186424
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\logstate-js-11.php
+Content Type: application/javascript
+
+Uri: https://106.sb.mywebsite-editor.com/app/logstate-js.php?site=681917280&t=1790186425
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\logstate-js-12.php
+Content Type: application/javascript
+
+Uri: https://106.sb.mywebsite-editor.com/app/logstate-js.php?site=681917280&t=1790186426
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\logstate-js-13.php
+Content Type: application/javascript
+
+Uri: https://106.sb.mywebsite-editor.com/app/logstate2-css.php?site=681917280&t=1790186411
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\logstate2-css.php
+Content Type: text/css
+
+Uri: https://106.sb.mywebsite-editor.com/app/logstate2-css.php?site=681917280&t=1790186414
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\logstate2-css-1.php
+Content Type: text/css
+
+Uri: https://106.sb.mywebsite-editor.com/app/logstate2-css.php?site=681917280&t=1790186415
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\logstate2-css-2.php
+Content Type: text/css
+
+Uri: https://106.sb.mywebsite-editor.com/app/logstate2-css.php?site=681917280&t=1790186416
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\logstate2-css-3.php
+Content Type: text/css
+
+Uri: https://106.sb.mywebsite-editor.com/app/logstate2-css.php?site=681917280&t=1790186417
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\logstate2-css-4.php
+Content Type: text/css
+
+Uri: https://106.sb.mywebsite-editor.com/app/logstate2-css.php?site=681917280&t=1790186418
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\logstate2-css-5.php
+Content Type: text/css
+
+Uri: https://106.sb.mywebsite-editor.com/app/logstate2-css.php?site=681917280&t=1790186419
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\logstate2-css-6.php
+Content Type: text/css
+
+Uri: https://106.sb.mywebsite-editor.com/app/logstate2-css.php?site=681917280&t=1790186420
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\logstate2-css-7.php
+Content Type: text/css
+
+Uri: https://106.sb.mywebsite-editor.com/app/logstate2-css.php?site=681917280&t=1790186421
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\logstate2-css-8.php
+Content Type: text/css
+
+Uri: https://106.sb.mywebsite-editor.com/app/logstate2-css.php?site=681917280&t=1790186422
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\logstate2-css-9.php
+Content Type: text/css
+
+Uri: https://106.sb.mywebsite-editor.com/app/logstate2-css.php?site=681917280&t=1790186423
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\logstate2-css-10.php
+Content Type: text/css
+
+Uri: https://106.sb.mywebsite-editor.com/app/logstate2-css.php?site=681917280&t=1790186424
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\logstate2-css-11.php
+Content Type: text/css
+
+Uri: https://106.sb.mywebsite-editor.com/app/logstate2-css.php?site=681917280&t=1790186425
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\logstate2-css-12.php
+Content Type: text/css
+
+Uri: https://106.sb.mywebsite-editor.com/app/logstate2-css.php?site=681917280&t=1790186426
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\logstate2-css-13.php
+Content Type: text/css
+
+Uri: https://cdn.website-start.de/app/cdn/min/group/mobilenavigation.css?1773742760336
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\cdn\min\group\mobilenavigation.css
+Content Type: text/css
+
+Uri: https://cdn.website-start.de/app/cdn/min/group/mobilenavigation.js?1773742760336
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\cdn\min\group\mobilenavigation.js
+Content Type: application/x-javascript
+
+Uri: https://cdn.website-start.de/app/cdn/min/group/pfcsupport.js?1773742760336
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\cdn\min\group\pfcsupport.js
+Content Type: application/x-javascript
+
+Uri: https://cdn.website-start.de/app/cdn/min/group/web.css?1773742760336
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\cdn\min\group\web.css
+Content Type: text/css
+
+Uri: https://cdn.website-start.de/app/cdn/min/group/web.js?1773742760336
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\cdn\min\group\web.js
+Content Type: application/x-javascript
+
+Uri: https://cdn.website-start.de/app/cdn/min/moduleserver/css/fr_FR/common,form,shoppingbasket?1773742760336
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\cdn\min\moduleserver\css\fr_FR\common,form,shoppingbasket
+Content Type: text/css
+
+Uri: https://cdn.website-start.de/app/cdn/min/moduleserver/css/fr_FR/common,shoppingbasket?1773742760336
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\cdn\min\moduleserver\css\fr_FR\common,shoppingbasket
+Content Type: text/css
+
+Uri: https://cdn.website-start.de/app/cdn/min/moduleserver/js/fr_FR/common,form,shoppingbasket?1773742760336
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\cdn\min\moduleserver\js\fr_FR\common,form,shoppingbasket
+Content Type: application/x-javascript
+
+Uri: https://cdn.website-start.de/app/cdn/min/moduleserver/js/fr_FR/common,shoppingbasket?1773742760336
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\cdn\min\moduleserver\js\fr_FR\common,shoppingbasket
+Content Type: application/x-javascript
+
+Uri: https://cdn.website-start.de/favicon.ico
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://cdn.website-start.de/mod/common/files/generated/modules-main-fr_FR.js
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\common\files\generated\modules-main-fr_FR.js
+Content Type: application/javascript
+
+Uri: https://cdn.website-start.de/mod/common/files/generated/modules-main.css
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\common\files\generated\modules-main.css
+Content Type: text/css
+
+Uri: https://cdn.website-start.de/mod/common/files/img/1und1_header_bg_left.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\common\files\img\1und1_header_bg_left.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/common/files/img/1und1_header_bg_middle.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\common\files\img\1und1_header_bg_middle.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/common/files/img/1und1_header_bg_right.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\common\files\img\1und1_header_bg_right.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/common/files/img/close.gif
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\common\files\img\close.gif
+Content Type: image/gif
+
+Uri: https://cdn.website-start.de/mod/common/files/img/error16.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\common\files\img\error16.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/common/files/img/tab_bottom.gif
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\common\files\img\tab_bottom.gif
+Content Type: image/gif
+
+Uri: https://cdn.website-start.de/mod/common/files/img/tab_document.gif
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\common\files\img\tab_document.gif
+Content Type: image/gif
+
+Uri: https://cdn.website-start.de/mod/common/files/img/tab_image.gif
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\common\files\img\tab_image.gif
+Content Type: image/gif
+
+Uri: https://cdn.website-start.de/mod/common/files/img/timeline.gif
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\common\files\img\timeline.gif
+Content Type: image/gif
+
+Uri: https://cdn.website-start.de/mod/common/files/lib/datepicker/css/smoothness/images/454545_7x7_arrow_left.gif
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\common\files\lib\datepicker\css\smoothness\images\454545_7x7_arrow_left.gif
+Content Type: image/gif
+
+Uri: https://cdn.website-start.de/mod/common/files/lib/datepicker/css/smoothness/images/454545_7x7_arrow_right.gif
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\common\files\lib\datepicker\css\smoothness\images\454545_7x7_arrow_right.gif
+Content Type: image/gif
+
+Uri: https://cdn.website-start.de/mod/common/files/lib/datepicker/css/smoothness/images/888888_7x7_arrow_left.gif
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\common\files\lib\datepicker\css\smoothness\images\888888_7x7_arrow_left.gif
+Content Type: image/gif
+
+Uri: https://cdn.website-start.de/mod/common/files/lib/datepicker/css/smoothness/images/888888_7x7_arrow_right.gif
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\common\files\lib\datepicker\css\smoothness\images\888888_7x7_arrow_right.gif
+Content Type: image/gif
+
+Uri: https://cdn.website-start.de/mod/common/files/lib/datepicker/css/smoothness/images/dadada_40x100_textures_02_glass_75.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\common\files\lib\datepicker\css\smoothness\images\dadada_40x100_textures_02_glass_75.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/common/files/lib/datepicker/css/smoothness/images/e6e6e6_40x100_textures_02_glass_75.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\common\files\lib\datepicker\css\smoothness\images\e6e6e6_40x100_textures_02_glass_75.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/common/files/lib/datepicker/css/smoothness/images/ffffff_40x100_textures_01_flat_75.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\common\files\lib\datepicker\css\smoothness\images\ffffff_40x100_textures_01_flat_75.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/common/files/lib/datepicker/css/smoothness/images/ffffff_40x100_textures_02_glass_65.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\common\files\lib\datepicker\css\smoothness\images\ffffff_40x100_textures_02_glass_65.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/00new_counter01a.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\00new_counter01a.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/00new_counter01b.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\00new_counter01b.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/00new_counter01c.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\00new_counter01c.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/00new_counter01d.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\00new_counter01d.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/00new_counter01e.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\00new_counter01e.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/00new_counter02a.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\00new_counter02a.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/00new_counter02b.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\00new_counter02b.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/00new_counter02c.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\00new_counter02c.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/00new_counter02d.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\00new_counter02d.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/00new_counter02e.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\00new_counter02e.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/00new_counter03a.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\00new_counter03a.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/00new_counter03b.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\00new_counter03b.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/00new_counter03c.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\00new_counter03c.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/00new_counter03d.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\00new_counter03d.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/00new_counter03e.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\00new_counter03e.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/00new_counter04a.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\00new_counter04a.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/00new_counter04b.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\00new_counter04b.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/00new_counter04c.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\00new_counter04c.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/00new_counter04d.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\00new_counter04d.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/00new_counter04e.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\00new_counter04e.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/00new_counter05a.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\00new_counter05a.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/00new_counter05b.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\00new_counter05b.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/00new_counter05c.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\00new_counter05c.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/00new_counter05d.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\00new_counter05d.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/00new_counter05e.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\00new_counter05e.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/00new_counter06a.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\00new_counter06a.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/00new_counter06b.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\00new_counter06b.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/00new_counter06c.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\00new_counter06c.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/00new_counter06d.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\00new_counter06d.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/00new_counter06e.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\00new_counter06e.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/03a.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\03a.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/03b.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\03b.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/03c.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\03c.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/04a.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\04a.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/04b.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\04b.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/04c.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\04c.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/05a.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\05a.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/13a.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\13a.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/13b.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\13b.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/13c.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\13c.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/13d.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\13d.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_01a.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_01a.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_01b.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_01b.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_01c.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_01c.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_01d.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_01d.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_01e.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_01e.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_01f.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_01f.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_01g.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_01g.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_01h.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_01h.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_02a.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_02a.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_02b.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_02b.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_02c.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_02c.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_02d.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_02d.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_02e.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_02e.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_02f.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_02f.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_02g.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_02g.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_02h.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_02h.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_03a.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_03a.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_03b.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_03b.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_03c.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_03c.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_03d.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_03d.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_03e.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_03e.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_03f.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_03f.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_03g.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_03g.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_03h.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_03h.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_04a.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_04a.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_04b.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_04b.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_04c.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_04c.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_04d.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_04d.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_04e.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_04e.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_04f.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_04f.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_04g.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_04g.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_04h.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_04h.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_05a.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_05a.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_05b.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_05b.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_05c.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_05c.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_05d.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_05d.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_05e.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_05e.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_05f.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_05f.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_05g.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_05g.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_05h.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_05h.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_06a.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_06a.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_06b.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_06b.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_06c.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_06c.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_06d.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_06d.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_06e.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_06e.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_06f.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_06f.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_06g.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_06g.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_06h.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_06h.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_07a.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_07a.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_07b.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_07b.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_07c.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_07c.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_07d.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_07d.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_07e.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_07e.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_07f.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_07f.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_07g.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_07g.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_07h.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_07h.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_08a.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_08a.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_08b.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_08b.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_08c.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_08c.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_08d.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_08d.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_08e.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_08e.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_08f.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_08f.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_08g.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_08g.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_08h.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_08h.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_09a.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_09a.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_09b.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_09b.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_09c.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_09c.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_09d.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_09d.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_09e.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_09e.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_09f.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_09f.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_09g.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_09g.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_09h.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_09h.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_10a.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_10a.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_10b.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_10b.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_10c.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_10c.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_10d.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_10d.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_10e.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_10e.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_10f.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_10f.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_10g.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_10g.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_11a.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_11a.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_11b.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_11b.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_11c.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_11c.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_11d.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_11d.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_11e.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_11e.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_11f.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_11f.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_11g.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_11g.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_13a.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_13a.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_13b.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_13b.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_13c.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_13c.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_13d.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_13d.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_13e.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_13e.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_13f.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_13f.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_13g.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_13g.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_13h.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_13h.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_14a.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_14a.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_14b.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_14b.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_14c.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_14c.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_14d.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_14d.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_14e.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_14e.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_14f.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_14f.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_14g.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_14g.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/neutral_14h.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\neutral_14h.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_01a.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_01a.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_01b.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_01b.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_01c.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_01c.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_01d.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_01d.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_01e.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_01e.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_01f.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_01f.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_01g.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_01g.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_02a.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_02a.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_02b.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_02b.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_02c.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_02c.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_02d.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_02d.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_02e.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_02e.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_02f.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_02f.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_02g.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_02g.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_02h.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_02h.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_04a.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_04a.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_04b.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_04b.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_04c.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_04c.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_04d.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_04d.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_04e.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_04e.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_04f.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_04f.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_04g.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_04g.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_04h.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_04h.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_05a.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_05a.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_05b.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_05b.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_05c.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_05c.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_05d.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_05d.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_05e.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_05e.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_05f.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_05f.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_05g.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_05g.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_05h.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_05h.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_08a.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_08a.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_08b.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_08b.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_08c.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_08c.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_08d.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_08d.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_08e.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_08e.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_08f.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_08f.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_08g.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_08g.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_10a.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_10a.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_10b.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_10b.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_10c.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_10c.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_10d.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_10d.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_10e.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_10e.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_10f.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_10f.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_10g.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_10g.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_11a.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_11a.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_11b.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_11b.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_11c.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_11c.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_11d.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_11d.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_11e.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_11e.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_11f.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_11f.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_11g.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_11g.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/counter/files/skins/playful_11h.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\counter\files\skins\playful_11h.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/event_calendar/files/img/btn-left.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\event_calendar\files\img\btn-left.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/event_calendar/files/img/btn-left_over.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\event_calendar\files\img\btn-left_over.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/event_calendar/files/img/btn-right.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\event_calendar\files\img\btn-right.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/event_calendar/files/img/btn-right_over.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\event_calendar\files\img\btn-right_over.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/event_calendar/files/img/error16.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\event_calendar\files\img\error16.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/event_calendar/files/img/ico_calendar.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\event_calendar\files\img\ico_calendar.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/event_calendar/files/img/ico_calendar_over.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\event_calendar\files\img\ico_calendar_over.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/event_calendar/files/img/loading-16x16-cc.gif
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\event_calendar\files\img\loading-16x16-cc.gif
+Content Type: image/gif
+
+Uri: https://cdn.website-start.de/mod/event_calendar/files/img/week-view-day-bg.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\event_calendar\files\img\week-view-day-bg.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/event_calendar/files/img/week-view-day-weekend-bg.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\event_calendar\files\img\week-view-day-weekend-bg.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/facebook/files/img/loader.gif
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\facebook\files\img\loader.gif
+Content Type: image/gif
+
+Uri: https://cdn.website-start.de/mod/facebook/files/img/logo-h.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\facebook\files\img\logo-h.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/facebook/files/img/logo-v.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\facebook\files\img\logo-v.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/form/files/img/warning.gif
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\form\files\img\warning.gif
+Content Type: image/gif
+
+Uri: https://cdn.website-start.de/mod/product_presentation/files/img/sb_button.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\product_presentation\files\img\sb_button.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/product_search/files/img/keyword_action_add.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\product_search\files\img\keyword_action_add.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/product_search/files/img/keyword_action_add_over.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\product_search\files\img\keyword_action_add_over.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/product_search/files/img/keyword_action_remove.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\product_search\files\img\keyword_action_remove.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/product_search/files/img/keyword_action_remove_over.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\product_search\files\img\keyword_action_remove_over.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/rssaggregator/files/img/loading-16x16-cc.gif
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\rssaggregator\files\img\loading-16x16-cc.gif
+Content Type: image/gif
+
+Uri: https://cdn.website-start.de/mod/shoppingbasket/files/img/error16.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\shoppingbasket\files\img\error16.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/mod/shoppingbasket/files/img/sb_button.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\mod\shoppingbasket\files\img\sb_button.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/proxy/apps/static/resource/dependencies/
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\proxy\apps\static\resource\dependencies\index.htm
+Content Type: application/javascript
+
+Uri: https://cdn.website-start.de/s/build/web.bundle.js?1773742760336
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\build\web.bundle.js
+Content Type: application/javascript
+
+Uri: https://cdn.website-start.de/s/diy/common/img/loader.gif
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\diy\common\img\loader.gif
+Content Type: image/gif
+
+Uri: https://cdn.website-start.de/s/diy/common/img/loader.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\diy\common\img\loader.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/s/diy/jquery/ui/widgets/switch/img/switch-sprite-24px.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\diy\jquery\ui\widgets\switch\img\switch-sprite-24px.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/s/img/alert.gif
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\img\alert.gif
+Content Type: image/gif
+
+Uri: https://cdn.website-start.de/s/img/captcha_bg.jpg
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\img\captcha_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.website-start.de/s/img/captcha_pfeil.gif
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\img\captcha_pfeil.gif
+Content Type: image/gif
+
+Uri: https://cdn.website-start.de/s/img/captcha_refresh.jpg
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\img\captcha_refresh.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.website-start.de/s/img/captcha_refresh_h.jpg
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\img\captcha_refresh_h.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.website-start.de/s/img/cc/alert.gif
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\img\cc\alert.gif
+Content Type: image/gif
+
+Uri: https://cdn.website-start.de/s/img/cc/icons/close.gif
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\img\cc\icons\close.gif
+Content Type: image/gif
+
+Uri: https://cdn.website-start.de/s/img/cc/icons/pdf.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\img\cc\icons\pdf.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/s/img/cc/info.gif
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\img\cc\info.gif
+Content Type: image/gif
+
+Uri: https://cdn.website-start.de/s/img/cc/next.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\img\cc\next.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/s/img/cc/ok.gif
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\img\cc\ok.gif
+Content Type: image/gif
+
+Uri: https://cdn.website-start.de/s/img/cc/prev.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\img\cc\prev.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/s/img/cc/printer.gif
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\img\cc\printer.gif
+Content Type: image/gif
+
+Uri: https://cdn.website-start.de/s/img/cc/sendpage.gif
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\img\cc\sendpage.gif
+Content Type: image/gif
+
+Uri: https://cdn.website-start.de/s/img/cc/sitemapdocbullet.gif
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\img\cc\sitemapdocbullet.gif
+Content Type: image/gif
+
+Uri: https://cdn.website-start.de/s/img/cc/warning.gif
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\img\cc\warning.gif
+Content Type: image/gif
+
+Uri: https://cdn.website-start.de/s/img/cms/buttons/btn_primary_action.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\img\cms\buttons\btn_primary_action.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/s/img/cms/buttons/btn_secondary_action.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\img\cms\buttons\btn_secondary_action.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/s/img/cms/loading/16x16.gif
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\img\cms\loading\16x16.gif
+Content Type: image/gif
+
+Uri: https://cdn.website-start.de/s/img/logo.gif
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\img\logo.gif
+Content Type: image/gif
+
+Uri: https://cdn.website-start.de/s/img/ok.gif
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\img\ok.gif
+Content Type: image/gif
+
+Uri: https://cdn.website-start.de/s/img/warning.gif
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\img\warning.gif
+Content Type: image/gif
+
+Uri: https://cdn.website-start.de/s/js/jquery/plugins/swipeBox/img/icons.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\js\jquery\plugins\swipeBox\img\icons.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/s/js/jquery/plugins/swipeBox/img/loader.gif
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\js\jquery\plugins\swipeBox\img\loader.gif
+Content Type: image/gif
+
+Uri: https://cdn.website-start.de/s/js/jquery/plugins/tinyLightbox/img/close.gif
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\js\jquery\plugins\tinyLightbox\img\close.gif
+Content Type: image/gif
+
+Uri: https://cdn.website-start.de/s/js/jquery/plugins/tinyLightbox/img/fullscreen.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\js\jquery\plugins\tinyLightbox\img\fullscreen.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/s/js/jquery/plugins/tinyLightbox/img/loading.gif
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\js\jquery\plugins\tinyLightbox\img\loading.gif
+Content Type: image/gif
+
+Uri: https://cdn.website-start.de/s/js/jquery/plugins/tinyLightbox/img/next.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\js\jquery\plugins\tinyLightbox\img\next.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/s/js/jquery/plugins/tinyLightbox/img/play-pause.gif
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\js\jquery\plugins\tinyLightbox\img\play-pause.gif
+Content Type: image/gif
+
+Uri: https://cdn.website-start.de/s/js/jquery/plugins/tinyLightbox/img/play-pause.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\js\jquery\plugins\tinyLightbox\img\play-pause.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/s/js/jquery/plugins/tinyLightbox/img/prev.png
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\js\jquery\plugins\tinyLightbox\img\prev.png
+Content Type: image/png
+
+Uri: https://cdn.website-start.de/templates/2045/print.css?1773742760336
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\templates\2045\print.css
+Content Type: text/css
+
+Uri: https://cdn.website-start.de/templates/2045/style.css?1773742760336
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\templates\2045\style.css
+Content Type: text/css
+
+Uri: https://www.upoparles.org/
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\index.htm
+Content Type: text/html
+
+Uri: https://www.upoparles.org/adhérer/
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\adhérer\index.htm
+Content Type: text/html
+
+Uri: https://www.upoparles.org/app/download/29106366/20190405+Quel+féminisme+aujourd’hui.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\29106366\20190405 Quel féminisme aujourd’hui.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/29106456/Bulletin+adh+2025-2026.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\29106456\Bulletin adh 2025-2026.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/29271572/20181012+Flyer+Sahara.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\29271572\20181012 Flyer Sahara.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/29451954/Apres+l+ombre+_+9+nov.2018.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\29451954\Apres l ombre _ 9 nov.2018.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/29557266/20181211+Francis+Wolff.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\29557266\20181211 Francis Wolff.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/29671406/20190125+Mathilde+Larrère++Florence+de+Cock.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\29671406\20190125 Mathilde Larrère  Florence de Cock.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/29812027/20190207+Estelle+Rouquette.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\29812027\20190207 Estelle Rouquette.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/29853823/20190227+Jean-Pierre+Léonardini..pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\29853823\20190227 Jean-Pierre Léonardini..pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/29946409/20190320+Danièle+Dravet-Baur.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\29946409\20190320 Danièle Dravet-Baur.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/30543026/13+mars+Virginie+Maris.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\30543026\13 mars Virginie Maris.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/30695986/20191005+Energitude++citoyennification.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\30695986\20191005 Energitude  citoyennification.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/30806450/20191112+S+Corcuff+-+Europe_Monde_Chine.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\30806450\20191112 S Corcuff - Europe_Monde_Chine.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/31055774/20191206+Florian+Besson+-+GOT.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\31055774\20191206 Florian Besson - GOT.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/31101579/Flyer+13+février.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\31101579\Flyer 13 février.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/31154997/Flyer+3+mars+O.+de+Sardan+(3).pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\31154997\Flyer 3 mars O. de Sardan (3).pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/32682837/20220513+Géopolitique+des+mobilisations+Stephane+Corcuff.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\32682837\20220513 Géopolitique des mobilisations Stephane Corcuff.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/32682858/20211021_Flyer+14+octobre+21+Thierry+Ripoll+-+De+l'esprit+au+cerveau+.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\32682858\20211021_Flyer 14 octobre 21 Thierry Ripoll - De l'esprit au cerveau .pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/32820511/20211118_Flyer+18+nov+21+Florian+Besson+-+Chrétienté+Islam.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\32820511\20211118_Flyer 18 nov 21 Florian Besson - Chrétienté Islam.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/32820545/20211209+Flyer+9+décembre+21.+Pandémies+dans+l'Histoire+médiévale.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\32820545\20211209 Flyer 9 décembre 21. Pandémies dans l'Histoire médiévale.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/32955212/20220120+Roland+Gori.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\32955212\20220120 Roland Gori.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/32964240/20220224+La+transformation+des+villes++par+les+pandémies+-++Vincent+Lavergne.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\32964240\20220224 La transformation des villes  par les pandémies -  Vincent Lavergne.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/33061948/20220310+Le+professeur+Kiddonk+Sysnetoua+Flyer.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\33061948\20220310 Le professeur Kiddonk Sysnetoua Flyer.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/33097215/20220429+Des+croyances+infondées+au+complotisme+-+Thierry+Ripoll.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\33097215\20220429 Des croyances infondées au complotisme - Thierry Ripoll.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/33299320/Flyer+11+mai+23+F.Archambault.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\33299320\Flyer 11 mai 23 F.Archambault.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/33349115/Matthieu+Niango+13+octobre+2022.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\33349115\Matthieu Niango 13 octobre 2022.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/33423639/Antoine+Lilti+-++17+novembre+22.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\33423639\Antoine Lilti -  17 novembre 22.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/33485435/Flyer+9+décembre+22+Roland+Gori.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\33485435\Flyer 9 décembre 22 Roland Gori.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/33540319/Flyer+19+janvier+23++F.Archambaulti.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\33540319\Flyer 19 janvier 23  F.Archambaulti.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/33582125/Flyer+3+février+T.+Ripoll.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\33582125\Flyer 3 février T. Ripoll.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/33660707/9-3-23+L'humiliation+un+danger+très+politique.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\33660707\9-3-23 L'humiliation un danger très politique.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/33722509/Flyer+6+avril+Chantal+Jaquet.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\33722509\Flyer 6 avril Chantal Jaquet.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/33722534/Flyer+3+juin+2023.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\33722534\Flyer 3 juin 2023.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/33983240/20231019+Valérie+Niquet.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\33983240\20231019 Valérie Niquet.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/34007358/Flyer+21.11.2023+B.Badie.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\34007358\Flyer 21.11.2023 B.Badie.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/34075675/20231215+Christophe+Bonneuil++Virginie+Maris.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\34075675\20231215 Christophe Bonneuil  Virginie Maris.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/34105814/25+janvier+2024+-++Amarande+LAFFON.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\34105814\25 janvier 2024 -  Amarande LAFFON.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/34105866/Flyer+15+février+24+les+préjugés.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\34105866\Flyer 15 février 24 les préjugés.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/34176149/20240322+Laurent+Bove+-+Camus.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\34176149\20240322 Laurent Bove - Camus.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/34176151/Flyer+18+avril+A.Dézé.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\34176151\Flyer 18 avril A.Dézé.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/34182158/Flyer+5+avril+C.+Spector.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\34182158\Flyer 5 avril C. Spector.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/34395897/Flyer+25+avril.+2025.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\34395897\Flyer 25 avril. 2025.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/34424985/Flyer+11+octobre+24+V.Niquet.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\34424985\Flyer 11 octobre 24 V.Niquet.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/34469469/Flyer_5_12.11.24+D.Faivre_optm_.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\34469469\Flyer_5_12.11.24 D.Faivre_optm_.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/34498179/20241205+Flyer+Jean-Pierre+Olivier+de+Sardan.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\34498179\20241205 Flyer Jean-Pierre Olivier de Sardan.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/34540972/Flyer+17.01.25.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\34540972\Flyer 17.01.25.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/34586854/Flyer+06.02.+2025+-+Jean-Joseph+Boillot.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\34586854\Flyer 06.02. 2025 - Jean-Joseph Boillot.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/34636235/Flyer+13+mars.+2025.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\34636235\Flyer 13 mars. 2025.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/34672850/Flyer+15+mai.+2025.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\34672850\Flyer 15 mai. 2025.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/34836419/20260205+François+Reynaert.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\34836419\20260205 François Reynaert.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/34926401/20251017+Patrick+Gianfaldoni.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\34926401\20251017 Patrick Gianfaldoni.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/34972619/20260120+Olivier+Mannoni.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\34972619\20260120 Olivier Mannoni.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/35020893/20260428+Claude+Alranq.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\35020893\20260428 Claude Alranq.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/35050091/20260319+Helene+Harter.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\35050091\20260319 Helene Harter.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/35066061/20260402+Christine+Cannard.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\35066061\20260402 Christine Cannard.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/35215246/Flyer+29+sept.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\35215246\Flyer 29 sept.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/app/download/3541976/2026-2027_Verso+programme+01+(fin+08-2026).pdf.pdf
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\app\download\3541976\2026-2027_Verso programme 01 (fin 08-2026).pdf.pdf
+Content Type: application/pdf
+
+Uri: https://www.upoparles.org/contact/
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\contact\index.htm
+Content Type: text/html
+
+Uri: https://www.upoparles.org/l-act-upop/
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\l-act-upop\index.htm
+Content Type: text/html
+
+Uri: https://www.upoparles.org/média/
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\média\index.htm
+Content Type: text/html
+
+Uri: https://www.upoparles.org/média/lire/
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\média\lire\index.htm
+Content Type: text/html
+
+Uri: https://www.upoparles.org/média/voir/
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\média\voir\index.htm
+Content Type: text/html
+
+Uri: https://www.upoparles.org/programme-archives/
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\programme-archives\index.htm
+Content Type: text/html
+
+Uri: https://www.upoparles.org/programme-archives/archive-2014-15/
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\programme-archives\archive-2014-15\index.htm
+Content Type: text/html
+
+Uri: https://www.upoparles.org/programme-archives/archive-2015-16/
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\programme-archives\archive-2015-16\index.htm
+Content Type: text/html
+
+Uri: https://www.upoparles.org/programme-archives/archive-2016-17/
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\programme-archives\archive-2016-17\index.htm
+Content Type: text/html
+
+Uri: https://www.upoparles.org/programme-archives/archive-2017-18/
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\programme-archives\archive-2017-18\index.htm
+Content Type: text/html
+
+Uri: https://www.upoparles.org/programme-archives/archive-2018-19/
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\programme-archives\archive-2018-19\index.htm
+Content Type: text/html
+
+Uri: https://www.upoparles.org/programme-archives/archive-2019-20/
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\programme-archives\archive-2019-20\index.htm
+Content Type: text/html
+
+Uri: https://www.upoparles.org/programme-archives/archive-2021-22/
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\programme-archives\archive-2021-22\index.htm
+Content Type: text/html
+
+Uri: https://www.upoparles.org/programme-archives/archive-2022-23/
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\programme-archives\archive-2022-23\index.htm
+Content Type: text/html
+
+Uri: https://www.upoparles.org/programme-archives/archive-2023-24/
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\programme-archives\archive-2023-24\index.htm
+Content Type: text/html
+
+Uri: https://www.upoparles.org/programme-archives/archive-2024-25/
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\programme-archives\archive-2024-25\index.htm
+Content Type: text/html
+
+Uri: https://www.upoparles.org/programme-archives/archive-2025-26/
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\programme-archives\archive-2025-26\index.htm
+Content Type: text/html
+
+Uri: https://www.upoparles.org/qui-sommes-nous/
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\qui-sommes-nous\index.htm
+Content Type: text/html
+
+Uri: https://www.upoparles.org/qui-sommes-nous/les-bénévoles/
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\qui-sommes-nous\les-bénévoles\index.htm
+Content Type: text/html
+
+Uri: https://www.upoparles.org/qui-sommes-nous/liens/
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\qui-sommes-nous\liens\index.htm
+Content Type: text/html
+
+Uri: https://www.upoparles.org/qui-sommes-nous/mentions-légales/
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\qui-sommes-nous\mentions-légales\index.htm
+Content Type: text/html
+
+Uri: https://www.upoparles.org/qui-sommes-nous/nos-statuts/
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\qui-sommes-nous\nos-statuts\index.htm
+Content Type: text/html
+
+Uri: https://www.upoparles.org/s/cc_images/cache_10571859.jpg?t=1392649285
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_10571859.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_10804767.jpg?t=1392996735
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_10804767.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_11764794.gif?t=1694452344
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_11764794.gif
+Content Type: image/gif
+
+Uri: https://www.upoparles.org/s/cc_images/cache_17229366.png?t=1404595666
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_17229366.png
+Content Type: image/png
+
+Uri: https://www.upoparles.org/s/cc_images/cache_21016372.jpg?t=1412453171
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_21016372.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_21296107.jpg?t=1413036362
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_21296107.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_21296511.jpg?t=1413036957
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_21296511.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_21296525.jpg?t=1413036994
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_21296525.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_21296661.jpg?t=1413037351
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_21296661.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_21298808.jpg?t=1413040185
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_21298808.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_21298825.jpg?t=1413040262
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_21298825.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_21298833.jpg?t=1413040316
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_21298833.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_23286467.jpg?t=1416844903
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_23286467.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_23287136.jpg?t=1416845335
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_23287136.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_25191407.jpg?t=1421182820
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_25191407.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_25191575.png?t=1421182884
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_25191575.png
+Content Type: image/png
+
+Uri: https://www.upoparles.org/s/cc_images/cache_25969339.jpg?t=1422972685
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_25969339.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_2786982.png?t=1669573909
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_2786982.png
+Content Type: image/png
+
+Uri: https://www.upoparles.org/s/cc_images/cache_2795944.jpg?t=1382043386
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_2795944.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_27965039.jpg?t=1427643317
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_27965039.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_2799962.jpg?t=1382045151
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_2799962.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_28780437.jpg?t=1429896393
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_28780437.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_28780480.jpg?t=1429896555
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_28780480.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_30999778.jpg?t=1435399904
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_30999778.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_42334025.png?t=1474305511
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_42334025.png
+Content Type: image/png
+
+Uri: https://www.upoparles.org/s/cc_images/cache_42334079.jpg?t=1474305732
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_42334079.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_42334155.jpg?t=1474306406
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_42334155.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_42334166.jpg?t=1474306614
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_42334166.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_42334197.jpg?t=1474307029
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_42334197.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_42334206.JPG?t=1474307328
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_42334206.JPG
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_42334220.jpg?t=1474307695
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_42334220.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_42334223.jpg?t=1474307869
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_42334223.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_42334235.jpg?t=1474308072
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_42334235.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_42337061.jpg?t=1493920337
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_42337061.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_43008261.jpg?t=1477253790
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_43008261.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_43913432.jpg?t=1481048058
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_43913432.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_43914242.png?t=1481055540
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_43914242.png
+Content Type: image/png
+
+Uri: https://www.upoparles.org/s/cc_images/cache_44341474.jpg?t=1483123305
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_44341474.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_44341502.jpg?t=1485293772
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_44341502.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_44818618.jpg?t=1485293483
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_44818618.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_44818619.jpg?t=1485293517
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_44818619.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_44818643.jpg?t=1485294717
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_44818643.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_45464470.png?t=1488311855
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_45464470.png
+Content Type: image/png
+
+Uri: https://www.upoparles.org/s/cc_images/cache_46228409.jpg?t=1491412362
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_46228409.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_46228463.png?t=1491412913
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_46228463.png
+Content Type: image/png
+
+Uri: https://www.upoparles.org/s/cc_images/cache_46766749.jpg?t=1493919709
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_46766749.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_48754204.jpg?t=1511988915
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_48754204.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_4892515.jpg?t=1384629456
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_4892515.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_49701823.jpg?t=1509744239
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_49701823.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_49701848.jpg?t=1509746206
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_49701848.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_49924882.jpg?t=1511114024
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_49924882.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_50051489.jpg?t=1511988205
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_50051489.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_50241831.jpg?t=1522400035
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_50241831.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_50742026.jpg?t=1516311761
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_50742026.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_50743408.jpg?t=1516313920
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_50743408.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_51093467.png?t=1518377735
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_51093467.png
+Content Type: image/png
+
+Uri: https://www.upoparles.org/s/cc_images/cache_51724724.jpeg?t=1522399628
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_51724724.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_53532211.jpg?t=1553982847
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_53532211.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_53951898.jpg?t=1540826338
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_53951898.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_53952166.png?t=1540827987
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_53952166.png
+Content Type: image/png
+
+Uri: https://www.upoparles.org/s/cc_images/cache_54348169.jpg?t=1544203713
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_54348169.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_54573158.jpg?t=1546543274
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_54573158.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_54859531.jpg?t=1548450892
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_54859531.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_55183848.jpg?t=1551122003
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_55183848.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_55269630.jpg?t=1551996561
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_55269630.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_55468936.jpg?t=1553982206
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_55468936.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_56988073.jpg?t=1583779765
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_56988073.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_57386740.png?t=1572349823
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_57386740.png
+Content Type: image/png
+
+Uri: https://www.upoparles.org/s/cc_images/cache_57720631.jpg?t=1574971626
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_57720631.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_58316153.jpg?t=1581276106
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_58316153.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_58437340.jpg?t=1582479047
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_58437340.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_58556054.jpg?t=1583779300
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_58556054.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_61723700.jpg?t=1651437959
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_61723700.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_62044132.jpg?t=1639946129
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_62044132.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_62044400.jpg?t=1639946941
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_62044400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_62328673.jpg?t=1645119102
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_62328673.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_62350487.jpg?t=1645477499
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_62350487.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_62350566.png?t=1645478723
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_62350566.png
+Content Type: image/png
+
+Uri: https://www.upoparles.org/s/cc_images/cache_62588798.jpg?t=1649776480
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_62588798.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_62588800.jpg?t=1649776667
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_62588800.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_62660680.jpg?t=1651437567
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_62660680.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_63226356.jpg?t=1684089210
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_63226356.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_63364068.jpg?t=1665764118
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_63364068.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_63546119.jpg?t=1669573955
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_63546119.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_63670425.png?t=1672942570
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_63670425.png
+Content Type: image/png
+
+Uri: https://www.upoparles.org/s/cc_images/cache_63804297.jpg?t=1675188823
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_63804297.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_63887778.jpg?t=1676906098
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_63887778.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_64064020.png?t=1680459237
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_64064020.png
+Content Type: image/png
+
+Uri: https://www.upoparles.org/s/cc_images/cache_64216649.jpg?t=1684087584
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_64216649.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_64216652.jpg?t=1684088822
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_64216652.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_64641352.jpg?t=1711897229
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_64641352.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_64876795.jpg?t=1699956938
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_64876795.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_64926744.png?t=1701515699
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_64926744.png
+Content Type: image/png
+
+Uri: https://www.upoparles.org/s/cc_images/cache_65070496.jpg?t=1705941827
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_65070496.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_6514289.jpg?t=1386702223
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_6514289.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_65174601.jpg?t=1707750139
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_65174601.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_65174634.jpg?t=1707750973
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_65174634.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_65339719.jpg?t=1711549618
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_65339719.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_65341378.jpg?t=1711553962
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_65341378.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_65351586.png?t=1711896593
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_65351586.png
+Content Type: image/png
+
+Uri: https://www.upoparles.org/s/cc_images/cache_65814054.jpg?t=1742580393
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_65814054.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_65892882.jpg?t=1728507044
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_65892882.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_66008029.jpg?t=1731680952
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_66008029.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_66064613.jpg?t=1733512851
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_66064613.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_66168329.jpg?t=1736797441
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_66168329.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_66266755.jpg?t=1739627860
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_66266755.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_66372956.png?t=1742578888
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_66372956.png
+Content Type: image/png
+
+Uri: https://www.upoparles.org/s/cc_images/cache_66466367.png?t=1745341621
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_66466367.png
+Content Type: image/png
+
+Uri: https://www.upoparles.org/s/cc_images/cache_66466369.jpg?t=1745343481
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_66466369.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_66775128.jpg?t=1775581873
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_66775128.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_66775132.jpg?t=1758303950
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_66775132.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_66966115.jpg?t=1765290430
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_66966115.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_67069336.jpg?t=1768863406
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_67069336.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_67182432.jpg?t=1772049395
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_67182432.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_67225637.png?t=1774293135
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_67225637.png
+Content Type: image/png
+
+Uri: https://www.upoparles.org/s/cc_images/cache_67259000.jpeg?t=1775580303
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_67259000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_67543709.png?t=1789138084
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_67543709.png
+Content Type: image/png
+
+Uri: https://www.upoparles.org/s/cc_images/cache_67547401.jpg?t=1789313756
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_67547401.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/cache_8833557.jpg?t=1390223542
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\cache_8833557.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_21016372.jpg?t=1412453171
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_21016372.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_21296107.jpg?t=1413036362
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_21296107.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_21296511.jpg?t=1413036957
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_21296511.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_21296525.jpg?t=1413036994
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_21296525.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_21296661.jpg?t=1413037351
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_21296661.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_21298808.jpg?t=1413040185
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_21298808.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_21298825.jpg?t=1413040262
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_21298825.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_21298833.jpg?t=1413040316
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_21298833.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_23286467.jpg?t=1416844903
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_23286467.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_23287136.jpg?t=1416845335
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_23287136.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_25191407.jpg?t=1421182820
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_25191407.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_25191575.png?t=1421182884
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_25191575.png
+Content Type: image/png
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_25969339.jpg?t=1422972685
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_25969339.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_2786982.png?t=1669573909
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_2786982.png
+Content Type: image/png
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_27965039.jpg?t=1427643317
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_27965039.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_28780437.jpg?t=1429896393
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_28780437.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_28780480.jpg?t=1429896555
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_28780480.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_30999778.jpg?t=1435399904
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_30999778.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_42334025.png?t=1474305511
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_42334025.png
+Content Type: image/png
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_42334079.jpg?t=1474305732
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_42334079.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_42334155.jpg?t=1474306406
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_42334155.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_42334166.jpg?t=1474306614
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_42334166.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_42334197.jpg?t=1474307029
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_42334197.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_42334206.JPG?t=1474307328
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_42334206.JPG
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_42334220.jpg?t=1474307695
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_42334220.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_42334223.jpg?t=1474307869
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_42334223.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_42334235.jpg?t=1474308072
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_42334235.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_42337061.jpg?t=1493920337
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_42337061.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_43008261.jpg?t=1477253790
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_43008261.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_43913432.jpg?t=1481048058
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_43913432.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_44341474.jpg?t=1483123305
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_44341474.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_44818619.jpg?t=1485293517
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_44818619.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_45464470.png?t=1488311855
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_45464470.png
+Content Type: image/png
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_46228409.jpg?t=1491412362
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_46228409.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_46766749.jpg?t=1493919709
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_46766749.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_48754204.jpg?t=1511988915
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_48754204.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_49701823.jpg?t=1509744239
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_49701823.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_49701848.jpg?t=1509746206
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_49701848.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_49924882.jpg?t=1511114024
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_49924882.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_50051489.jpg?t=1511988205
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_50051489.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_50241831.jpg?t=1522400035
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_50241831.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_50742026.jpg?t=1516311761
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_50742026.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_51093467.png?t=1518377735
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_51093467.png
+Content Type: image/png
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_51724724.jpeg?t=1522399628
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_51724724.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_53532211.jpg?t=1553982847
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_53532211.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_53951898.jpg?t=1540826338
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_53951898.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_53952166.png?t=1540827987
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_53952166.png
+Content Type: image/png
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_54348169.jpg?t=1544203713
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_54348169.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_54573158.jpg?t=1546543274
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_54573158.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_54859531.jpg?t=1548450892
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_54859531.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_55183848.jpg?t=1551122003
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_55183848.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_55269630.jpg?t=1551996561
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_55269630.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_55468936.jpg?t=1553982206
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_55468936.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_56988073.jpg?t=1583779765
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_56988073.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_57386740.png?t=1572349823
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_57386740.png
+Content Type: image/png
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_57720631.jpg?t=1574971626
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_57720631.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_58316153.jpg?t=1581276106
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_58316153.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_58437340.jpg?t=1582479047
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_58437340.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_58556054.jpg?t=1583779300
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_58556054.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_61723700.jpg?t=1651437959
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_61723700.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_62044132.jpg?t=1639946129
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_62044132.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_62044400.jpg?t=1639946941
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_62044400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_62328673.jpg?t=1645119102
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_62328673.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_62350487.jpg?t=1645477499
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_62350487.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_62350566.png?t=1645478723
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_62350566.png
+Content Type: image/png
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_62588798.jpg?t=1649776480
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_62588798.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_62588800.jpg?t=1649776667
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_62588800.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_62660680.jpg?t=1651437567
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_62660680.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_63226356.jpg?t=1684089210
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_63226356.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_63364068.jpg?t=1665764118
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_63364068.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_63546119.jpg?t=1669573955
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_63546119.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_63670425.png?t=1672942570
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_63670425.png
+Content Type: image/png
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_63804297.jpg?t=1675188823
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_63804297.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_63887778.jpg?t=1676906098
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_63887778.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_64064020.png?t=1680459237
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_64064020.png
+Content Type: image/png
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_64216649.jpg?t=1684087584
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_64216649.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_64216652.jpg?t=1684088822
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_64216652.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_64641352.jpg?t=1711897229
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_64641352.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_64876795.jpg?t=1699956938
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_64876795.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_64926744.png?t=1701515699
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_64926744.png
+Content Type: image/png
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_65070496.jpg?t=1705941827
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_65070496.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_65174601.jpg?t=1707750139
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_65174601.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_65174634.jpg?t=1707750973
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_65174634.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_65339719.jpg?t=1711549618
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_65339719.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_65351586.png?t=1711896593
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_65351586.png
+Content Type: image/png
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_65814054.jpg?t=1742580393
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_65814054.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_65892882.jpg?t=1728507044
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_65892882.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_66008029.jpg?t=1731680952
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_66008029.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_66064613.jpg?t=1733512851
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_66064613.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_66168329.jpg?t=1736797441
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_66168329.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_66266755.jpg?t=1739627860
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_66266755.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_66372956.png?t=1742578888
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_66372956.png
+Content Type: image/png
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_66466367.png?t=1745341621
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_66466367.png
+Content Type: image/png
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_66466369.jpg?t=1745343481
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_66466369.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_66775128.jpg?t=1775581873
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_66775128.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_66966115.jpg?t=1765290430
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_66966115.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_67069336.jpg?t=1768863406
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_67069336.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_67182432.jpg?t=1772049395
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_67182432.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_67225637.png?t=1774293135
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_67225637.png
+Content Type: image/png
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_67259000.jpeg?t=1775580303
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_67259000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_67543709.png?t=1789138084
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_67543709.png
+Content Type: image/png
+
+Uri: https://www.upoparles.org/s/cc_images/teaserbox_67547401.jpg?t=1789313756
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\cc_images\teaserbox_67547401.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/img/emotionheader.gif?1386837300.960px.164px
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\img\emotionheader.gif
+Content Type: image/gif
+
+Uri: https://www.upoparles.org/s/misc/logo.jpg?t=1789311977
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\misc\logo.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/misc/logo.jpg?t=1789312984
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\misc\logo-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/misc/logo.jpg?t=1789315258
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\misc\logo-6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/misc/logo.jpg?t=1789317293
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\misc\logo-21.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/misc/logo.jpg?t=1789324145
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\misc\logo-14.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/misc/logo.jpg?t=1789325269
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\misc\logo-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/misc/logo.jpg?t=1789327370
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\misc\logo-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/misc/logo.jpg?t=1789330375
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\misc\logo-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/misc/logo.jpg?t=1789333076
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\misc\logo-18.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/misc/logo.jpg?t=1789336313
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\misc\logo-7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/misc/logo.jpg?t=1789345019
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\misc\logo-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/misc/logo.jpg?t=1789346176
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\misc\logo-20.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/misc/logo.jpg?t=1789354814
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\misc\logo-13.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/misc/logo.jpg?t=1789356162
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\misc\logo-15.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/misc/logo.jpg?t=1789430439
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\misc\logo-16.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/misc/logo.jpg?t=1789433833
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\misc\logo-8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/misc/logo.jpg?t=1789433834
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\misc\logo-9.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/misc/logo.jpg?t=1789433835
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\misc\logo-10.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/misc/logo.jpg?t=1789433836
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\misc\logo-11.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/misc/logo.jpg?t=1789433837
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\misc\logo-12.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/misc/logo.jpg?t=1789635548
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\misc\logo-17.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/misc/logo.jpg?t=1789641857
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\misc\logo-19.jpg
+Content Type: image/jpeg
+
+Uri: https://www.upoparles.org/s/style/theming.css?1758302026
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\s\style\theming.css
+Content Type: text/css
+
+Uri: https://www.upoparles.org/sitemap/
+File Name: D:\Téléchargements\Web copies de sites\www.upoparles.org\sitemap\index.htm
+Content Type: text/html
+
